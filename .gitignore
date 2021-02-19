@@ -7,9 +7,9 @@
 *.class
 
 # ignore ALL files named Test dir
-test/
+# test/
 
 # ignore ALL files in Test dir
-# /test
+/test
 
 
