@@ -1,0 +1,15 @@
+# <- this is remark
+
+# files to ignore
+.DS_Store
+
+# ignore all .class files
+*.class
+
+# ignore ALL files named Test dir
+test/
+
+# ignore ALL files in Test dir
+# /test
+
+
