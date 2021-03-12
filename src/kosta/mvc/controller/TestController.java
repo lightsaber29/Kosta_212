@@ -11,4 +11,7 @@ public class TestController {
 		String str = null;
 		
 	}
+	public void forCrash() {
+		System.out.println("충돌을 위한 코드");
+	}
 }
