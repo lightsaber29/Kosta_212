@@ -10,6 +10,8 @@ public class TestController {
 		int a = 0;
 		String str = null;
 		
+		System.out.println("yes");
+	
 	}
 	public void forCrash() {
 		System.out.println("충돌을 위한 코드");
