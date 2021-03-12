@@ -5,5 +5,10 @@ public class TestController {
 		System.out.println("insert 메소드입니다.");
 		
 		System.out.println("변경해봤습니다.");
+		
+		System.out.println("이승현_충돌");
+		int a = 0;
+		String str = null;
+		
 	}
 }
