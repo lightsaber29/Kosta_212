@@ -6,4 +6,7 @@ public class TestController {
 		
 		System.out.println("변경해봤습니다.");
 	}
+	public void forCrash() {
+		System.out.println("충돌을 위한 코드");
+	}
 }
